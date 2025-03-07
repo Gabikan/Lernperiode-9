@@ -25,9 +25,13 @@ Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?
 ☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ##  28.2
-[ ] LinkedIn-Profil erstellen / ausputzen
-[ ] GitHub-Profil professionalisieren (readme.md)
-[ ] Arbeitspakete: html struktur und css der Hauptseite plus Bilder
+[ x ] LinkedIn-Profil erstellen / ausputzen
+[ x ] GitHub-Profil professionalisieren (readme.md)
+[ x ] Arbeitspakete: html struktur und css der Hauptseite plus Bilder
 ✍️ Heute habe ich... (50-100 Wörter)
+Ich habe mich Leuten vernetzt auf Github vorallem mit Freunden, Lehrern und Familie.
+
+## 7.3.2025
+-
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
