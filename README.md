@@ -38,7 +38,11 @@ Ich habe mich Leuten vernetzt auf Github vorallem mit Freunden, Lehrern und Fami
 Meine Website beendet und halbwegs anschaubar gemacht leider nicht ganz fertig geworden. Ich muss sie noch verfeinern aber darum kümmere ich mich nächstes Mal
 
 ## 14.3.2025
-- [ ] Github Projekte hochladen und das Profil anpassen nach Feedback
-- [ ] Website feinschliff Erfahrungen Links Inhalt und Bilder einfügen
-- [ ] Python
+- [ ] Finanztracker html
+- [ ] Finanztracker css
+- [ ] Finanztracker logik
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+
+## 21.03.2025
+- [ ] Finanztracker 
+- [ ] 
