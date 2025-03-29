@@ -22,7 +22,7 @@ Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?
 - [x] Rechtschreibeprüfung
 ✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+
 
 ##  28.2
 - [x] LinkedIn-Profil erstellen / ausputzen
@@ -38,11 +38,21 @@ Ich habe mich Leuten vernetzt auf Github vorallem mit Freunden, Lehrern und Fami
 Meine Website beendet und halbwegs anschaubar gemacht leider nicht ganz fertig geworden. Ich muss sie noch verfeinern aber darum kümmere ich mich nächstes Mal
 
 ## 14.3.2025
-- [ ] Finanztracker html
-- [ ] Finanztracker css
-- [ ] Finanztracker logik
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+- [x] Finanztracker html
+- [x] Finanztracker css
+- [x] Finanztracker logik
+
+## Heute habe ich...
+Ich habe an meinem Finanztracker gearbeitet ich habe die Website gestylt und ich habe sie 
+
 
 ## 21.03.2025
-- [ ] Finanztracker 
+- [ ] Finanztracker logik
 - [ ] 
+
+## Heute habe ich...
+
+## 28.03.2025
+- [ ] 
+- [ ]
+- [ ]
