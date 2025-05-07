@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Finanztracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <button onclick="showSection('dashboard')">Dashboard</button>
+    <button onclick="showSection('transactions')">Transaktionen</button>
+  </nav>
+
+  <div class="container">
+    <section id="dashboard" style="display: none;">
+      <h1>Dashboard</h1>
+      <p id="balance-summary">Gesamtsaldo wird geladen...</p>
+    </section>
+
+    <section id="transactions">
+      <h1>Transaktionen</h1>
+      <form id="transaction-form">
+        <input type="text" id="description" placeholder="Beschreibung" required />
+        <input type="number" id="amount" placeholder="Betrag in CHF (negativ = Ausgabe)" required />
+        <input type="date" id="date" required />
+        <button type="submit">Hinzufügen</button>
+      </form>
+      <ul id="transaction-list"></ul>
+      <h3 id="balance">Saldo: CHF 0.00</h3>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
