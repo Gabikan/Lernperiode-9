@@ -1,5 +1,5 @@
 # Lern-Periode 9
-## 21.2 bis 4.4
+## 21.2 bis 14.3
 
 ## Grob-Planung
 Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten?
@@ -43,16 +43,4 @@ Meine Website beendet und halbwegs anschaubar gemacht leider nicht ganz fertig g
 - [x] Finanztracker logik
 
 ## Heute habe ich...
-Ich habe an meinem Finanztracker gearbeitet ich habe die Website gestylt und ich habe sie 
-
-
-## 21.03.2025
-- [ ] Finanztracker logik
-- [ ] 
-
-## Heute habe ich...
-
-## 28.03.2025
-- [ ] 
-- [ ]
-- [ ]
+Ich habe an meinem Finanztracker gearbeitet ich habe die Website gestylt und ich habe die Logik implementiert. Ich hatte Schwierigkeiten beim implementieren von Nachkommazahlen weswegen ich das auslassen musste.
